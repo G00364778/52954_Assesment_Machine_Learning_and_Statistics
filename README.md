@@ -2,7 +2,6 @@
 
 This repository contains the submissions for Assessment 2019 for the module Machine Learning and Statistics.
 
-
 ## Folders and Files
 
 The repository contains the following folders:
@@ -25,7 +24,6 @@ The repository contains the following files:
 
 The notebook can be viewed in GitHub by selecting Boston_House_Price_Analyses.ipynb directly in the Git repository.
 
-A better viewing experience supporting more of the available Jupyter notebook features by launching the notebook through NBViewer. Select the link below to launch.
+Selecting the link below provides a better viewing experience supporting more of the available Jupyter notebook features by launching the notebook through NBViewer. Select the link below to launch NBViewer.
 
 https://nbviewer.jupyter.org/github/G00364778/52954_Assesment_Machine_Learning_and_Statistics/blob/master/Boston_House_Price_Analyses.ipynb
-
